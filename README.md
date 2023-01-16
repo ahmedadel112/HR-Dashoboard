@@ -1,5 +1,5 @@
 # HR-Dashoboard
-This Dashboard have some HR analytics Data Like Gender , On Service or retired and due for promotion or not and some DAX expressions to calculate Service years , ratio of gender . ratio of due for promotion or not , ratio of on service or retired
+This dashboard has some HR analytics data like gender, being on service or retired, due for promotion or not, and some DAX expressions to calculate service years and the ratio of gender. ratio of due for promotion or not , ratio of on service or retired
 This is some Screenshots of the running project :
 ![2023-01-16 (6)](https://user-images.githubusercontent.com/58312021/212725979-362f9f70-53f9-473e-8bab-616bac20e516.png)
 ![2023-01-16 (5)](https://user-images.githubusercontent.com/58312021/212725545-8879af97-e7df-49c9-bfc5-4189802cfc36.png)
